@@ -13,7 +13,8 @@
     },
     "categories": {
       "auth": {
-        "nust3appd2200151": {}
+        "nust3appd2200151": {},
+        "userPoolGroups": {}
       }
     }
   }
